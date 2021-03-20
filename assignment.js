@@ -1,4 +1,5 @@
 //  https://github.com/parulakhter/assignment.js
+
 // (1) Converting kilometers to meters
 
 function kilometerToMeter(kilometer){
@@ -41,7 +42,7 @@ function hotelCost(days){
     }
     return cost;
 }
-var totalCost = hotelCost(20);
+var totalCost = hotelCost(25);
 console.log(totalCost);
 
 // (4) Finding the largest name/string of an array
